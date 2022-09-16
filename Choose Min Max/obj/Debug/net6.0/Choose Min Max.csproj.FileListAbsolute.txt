@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\bin\Debug\net6.0\Choose Min Max.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\bin\Debug\net6.0\Choose Min Max.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\bin\Debug\net6.0\Choose Min Max.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\bin\Debug\net6.0\Choose Min Max.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\bin\Debug\net6.0\Choose Min Max.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\Choose Min Max.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\Choose Min Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\Choose Min Max.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\Choose Min Max.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\Choose Min Max.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\Choose Min Max.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\refint\Choose Min Max.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\Choose Min Max.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\Choose Min Max.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson1. Introduction\Choose Min Max\obj\Debug\net6.0\ref\Choose Min Max.dll
